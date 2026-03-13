@@ -59,6 +59,9 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }```
+
+
+## 2.To Write a C program that illustrates files locking
 ```#include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -112,18 +115,9 @@ int main(int argc, char *argv[]) {
 
 
 
-
-
-## 2.To Write a C program that illustrates files locking
-
-
-
-
 ## OUTPUT
-![image](ex007.png)
-![image](ex07.1.png)
-
-
+![image](images/ex7.1.png)
+![image](images/ex007.png)
 
 # RESULT:
 The programs are executed successfully.
