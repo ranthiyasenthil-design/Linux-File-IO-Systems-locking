@@ -111,13 +111,13 @@ int main(int argc, char *argv[]) {
     close(fd);
 
     return 0;
-}```
-
+}
+````
 
 
 ## OUTPUT
-![image](images/ex7.1.png)
-![image](images/ex007.png)
+![images](images/ex7.1.png)
+![images](images/ex007.png)
 
 # RESULT:
 The programs are executed successfully.
